@@ -1,11 +1,7 @@
-# ⭐ Example GitHub Profile README
+# Vin (Hoàng) – Senior Software Engineer (Cyber Security)
 
-Below is a professional template you can adapt for your GitHub profile README.  Make sure to replace the placeholders (e.g. `Pekarate`, `[Your Name]`, `[Your Role]`, etc.) with your actual details.  You can also remove sections that don’t apply to you.
-
----
-
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Role] from Việt Nam / Một lập trình viên đam mê từ Việt Nam</h3>
+<h1 align="center">Hi 👋, I'm Vin (Hoàng)</h1>
+<h3 align="center">Senior Software Engineer specializing in Cyber Security at LG</h3>
 
 <p align="center">
   <a href="https://github.com/Pekarate">
@@ -13,23 +9,22 @@ Below is a professional template you can adapt for your GitHub profile README.  
   </a>
 </p>
 
-- 🔬 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[Technologies you are learning]**
-- 👯 I’m looking to collaborate on **[Projects you’d like to collaborate on]**
-- 👋 Ask me about **[Areas where you can help others]**
-- 📧 How to reach me **[Your email address]**
-- 📋 Know more about my experiences: [Résumé/CV link](#)
+- 🔭 I’m currently working on **cyber security solutions at LG**
+- 🌱 I’m currently learning **advanced cyber security techniques and modern embedded platforms**
+- 👯 I’m looking to collaborate on **open‑source security tools and embedded projects**
+- 🐮 Ask me about **cyber security, STM32, ESP32 and other embedded microcontrollers**
+- 🧐 I have years of experience in embedded programming including **STM32**, **ESP32** and other microcontrollers
+- 💋 How to reach me **via Upwork messages**
 
-## 🌐 Connect with me / Liên hệ với tôi
+## 🌐 Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
-<a href="https://fb.com/YOUR-FACEBOOK" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" alt="Facebook" height="30" width="30" /></a>
-<a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" height="30" width="30" /></a>
-<a href="https://twitter.com/YOUR-TWITTER" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" alt="Twitter" height="30" width="30" /></a>
+<a href="https://upwork.com/freelancers/PROFILE-LINK" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/upwork.svg" alt="Upwork" height="30" width="30" /></a>
+<a href="https://github.com/Pekarate" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" height="30" width="30" /></a>
 </p>
 
-## 🛠️ Languages & Tools / Ngôn ngữ & Công cụ
+## 🛠️ Languages & Tools
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>
@@ -39,10 +34,9 @@ Below is a professional template you can adapt for your GitHub profile README.  
   <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40" /></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" /></a>
   <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></a>
-  <!-- add or remove icons as needed -->
 </p>
 
-## 📊 GitHub Stats / Thống kê GitHub
+## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Pekarate&show_icons=true&locale=en" alt="GitHub stats" />
@@ -62,4 +56,4 @@ Below is a professional template you can adapt for your GitHub profile README.  
 
 ---
 
-Feel free to update this template to better reflect your personality and achievements.  For example, you can add sections about your favorite projects, include a timeline of your career or education, or share links to your blog posts.
+Thank you for visiting my profile! For more details about my experience and projects, please see my pinned repositories or contact me via Upwork.
